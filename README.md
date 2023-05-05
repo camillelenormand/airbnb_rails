@@ -2,4 +2,4 @@
 
 ## DATA MODEL
 
-![alt text](https://github.com/camillelenormand/The-Gossip-Project-DB/blob/main/public/airbnb.png?raw=true)
+![alt text](https://github.com/camillelenormand/airbnb_rails/blob/main/public/airbnb.png?raw=true)
